@@ -149,7 +149,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 382016462}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 709faddba21df41449d9bfa94adcc393, type: 3}
+  m_Script: {fileID: 11500000, guid: 4795401f4ba624300a288fb0dd81c99b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &382016464
@@ -249,15 +249,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 382016463}
-        m_TargetAssemblyTypeName: SceneSwitch, Assembly-CSharp
-        m_MethodName: SceneSwitcher
+        m_TargetAssemblyTypeName: Controler, Assembly-CSharp
+        m_MethodName: LoadNextSceneAutomated
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 01Colorscene
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &400249134
