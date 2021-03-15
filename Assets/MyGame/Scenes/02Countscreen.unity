@@ -1830,7 +1830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   a: {fileID: 1223356021}
   b: {fileID: 1840327064}
-  result: {fileID: 0}
+  result: {fileID: 670900663}
   number1: 0
   number2: 0
 --- !u!4 &1939034483
